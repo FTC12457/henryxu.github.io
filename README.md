@@ -1,4 +1,4 @@
-_This site is under construction_
+:construction_worker: _This site is under construction_
 
 ## Welcome to Henry Xu's GitHub Pages
 
