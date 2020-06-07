@@ -1,8 +1,8 @@
+_This site is under construction_
+
 ## Welcome to Henry Xu's GitHub Pages
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-I will create some content soon.
 
 ### Markdown
 
