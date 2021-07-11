@@ -22,6 +22,8 @@ There needs a caution that not to over promise and exaust myself when helping ot
 
 These wise words by Churchill unfold what the growth mindset is all about: seeing opportunities instead of obstacles. That means seeing failure as a chance to develop your abilities further, instead of rolling into your cocoon and hiding from the world. Take positive risks out of the comfortable zone to learn, fail, and grow. Below is a comparison of fixed mindset and growth mindset.
 
-![This is a good illustration of fixed and growth mindset]  (https://github.com/FTC12457/henryxu.github.io/images/two_mindsets.jpg)
+![This is a good illustration of fixed and growth mindset]  (https://ftc12457.github.io/henryxu.github.io/images/two_mindsets.jpg)
+
+
 
 
