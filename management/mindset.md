@@ -1,4 +1,4 @@
-# Mindset
+# Growth Mindset
 
 In decision theory and general systems theory, a mindset is a set of assumptions, methods, or notions held by one or more people or groups of people. A mindset can also be seen as arising out of a person's world view or philosophy of life. In my understanding, mindset is people's perspective to the world. Over the years I have learnd and believed that the following mindsets would help me greatly should I restart my journey after colleage.
 
@@ -20,8 +20,8 @@ There needs a caution that not to over promise and exaust myself when helping ot
 
 *Success is not final; failure is not fatal: It is the courage to continue that counts. –W. Churchill*
 
-These wise words by Churchill unfold what the growth mindset is all about: seeing opportunities instead of obstacles. That means seeing failure as a chance to develop your abilities further, instead of rolling into your cocoon and hiding from the world. Take positive risks out of the comfortable zone to learn, fail, and grow.
+These wise words by Churchill unfold what the growth mindset is all about: seeing opportunities instead of obstacles. That means seeing failure as a chance to develop your abilities further, instead of rolling into your cocoon and hiding from the world. Take positive risks out of the comfortable zone to learn, fail, and grow. Below is a comparison of fixed mindset and growth mindset.
 
-![This is a good illustration of fixed and growth mindset] (/managment/two_mindsets.jpeg)
+![This is a good illustration of fixed and growth mindset]  (https://github.com/FTC12457/henryxu.github.io/images/two_mindsets.jpg)
 
 
